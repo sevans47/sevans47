@@ -1,4 +1,4 @@
-### Hi! 👋 I'm Stephen
+# Hi! 👋 I'm Stephen
 
 - 🍶 I'm currently working on a [sake dashboard](https://github.com/sevans47/sake_dashboard)
 - 📗 I'm currently learning about map making in python using [Folium](https://python-visualization.github.io/folium/)
