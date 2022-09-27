@@ -1,7 +1,7 @@
 # Hi! 👋 I'm Stephen
 
-- 🍶 I'm currently working on a [sake dashboard](https://github.com/sevans47/sake_dashboard)
-- 📗 I'm currently learning about map making in python using [Folium](https://python-visualization.github.io/folium/)
+- 🎸 I'm currently working on a guitar tone classification model called [buzzfinder](https://github.com/sevans47/buzzfinder)
+- 📗 I'm currently learning about digital signal processing in python using [Librosa](https://librosa.org/doc/latest/index.html)
 - 💻 All of my projects are available on my [troopl portfolio](https://troopl.com/sevans47)
 
 ### 🤝 Connect with me:
@@ -15,4 +15,4 @@
 - 📊 **Data Visualization** - Matplotlib, Seaborn, Plotly
 - 🤓 **Statistics** - Scipy, Statsmodels
 - 🤖 **Machine Learning / Deep Learning** - Scikit-learn, TensorFlow Keras
-- 🏭 **Product Development** - Github, Google Cloud Platform, Heroku, Streamlit, FastAPI, Docker
+- 🏭 **Product Development** - Github, Google Cloud Platform, Streamlit, FastAPI, Docker, MLFlow
