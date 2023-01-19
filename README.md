@@ -1,6 +1,6 @@
 # Hi! 👋 I'm Stephen
 
-- 🎸 I'm currently working on a data engineering project to transform musical scores into tabular data called [musetable](https://github.com/sevans47/musetable)
+- 🎵 I'm currently working on a project to transform musical scores into tabular data called [musetable](https://github.com/sevans47/musetable)
 - 📗 I'm currently learning about [GCP Data Analytics](https://www.udemy.com/course/master-data-engineering-using-gcp-data-analytics)
 - 💻 All of my projects are available on my [troopl portfolio](https://troopl.com/sevans47)
 
