@@ -1,7 +1,7 @@
 # Hi! 👋 I'm Stephen
 
-- 🎸 I'm currently working on a guitar tone classification model called [buzzfinder](https://github.com/sevans47/buzzfinder)
-- 📗 I'm currently learning about digital signal processing in python using [Librosa](https://librosa.org/doc/latest/index.html)
+- 🎸 I'm currently working on a data engineering project to transform musical scores into tabular data called [musetable](https://github.com/sevans47/musetable)
+- 📗 I'm currently learning about [GCP Data Analytics](https://www.udemy.com/course/master-data-engineering-using-gcp-data-analytics)
 - 💻 All of my projects are available on my [troopl portfolio](https://troopl.com/sevans47)
 
 ### 🤝 Connect with me:
@@ -15,4 +15,4 @@
 - 📊 **Data Visualization** - Matplotlib, Seaborn, Plotly
 - 🤓 **Statistics** - Scipy, Statsmodels
 - 🤖 **Machine Learning / Deep Learning** - Scikit-learn, TensorFlow Keras
-- 🏭 **Product Development** - Github, Google Cloud Platform, Streamlit, FastAPI, Docker, MLFlow
+- 🏭 **Product Development** - Github, Google Cloud Platform, Streamlit, FastAPI, Docker, MLFlow, BentoML
